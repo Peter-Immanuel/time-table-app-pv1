@@ -1,12 +1,8 @@
-# time-table-app-pv1
-Title; TimeTable generator app
+Title; Time Table Generator using Random Choices
+
 Requirement;
-  python interpreter
   Pandas 
-  xlsxwriter
-  pyqt5
+  Xlsxwriter
+  PyQt5
   
- Description; The program is meant to generate a timetable from some given Theoritical course and practical course in an excel sheet
- 
-  
-  
+ Description; The program is meant to generate a timetable from some given Theoritical course and practical course in an excel sheet. 
